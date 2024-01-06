@@ -3,6 +3,8 @@
 - 🌱 I’m currently exploring a new programming language
 -  #Java
 -  #C++
+-  #SQL
+-  #Tableau
 - 📫 How to reach me
 - https://www.linkedin.com/in/hlengiwe-mthanti-407274169/
 
